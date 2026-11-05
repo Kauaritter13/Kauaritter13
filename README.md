@@ -14,9 +14,9 @@ Desenvolvedor Full Stack e estudante de Engenharia da Computação na UERGS, em 
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Pixel Resenha**](https://github.com/Kauaritter13/pixelresenha) · [ao vivo](https://pixelresenha.vercel.app) | Jogo social multiplayer em pixel art, com chat de voz | Next.js · WebSocket · WebRTC · PostgreSQL |
-| [**A Gente Tenta**](https://github.com/Kauaritter13/v0-a-gente-tenta) · [ao vivo](https://v0-a-gente-tenta.vercel.app) | Resenhas e coleções com links de convite compartilháveis | Next.js · Supabase |
-| [**Uergs Check**](https://github.com/Kauaritter13/Uergs-Check) | Acompanhamento de matérias e créditos para estudantes da UERGS | Next.js · PostgreSQL |
+| [**Pixel Resenha**](https://github.com/Kauaritter13/pixelresenha) · [ao vivo](https://pixelresenha.vercel.app) | Joguinho multiplayer em pixel art para fazer resenha, com chat de voz | Next.js · WebSocket · WebRTC · PostgreSQL |
+| [**A Gente Tenta**](https://github.com/Kauaritter13/v0-a-gente-tenta) · [ao vivo](https://v0-a-gente-tenta.vercel.app) | Organiza resenha com os amigos: convite por link, confirmação de presença e comentários | Next.js · Supabase |
+| [**Uergs Check**](https://github.com/Kauaritter13/Uergs-Check) | Acompanhamento de matérias e créditos para estudantes da UERGS | Next.js · Supabase |
 | [**Portfólio**](https://github.com/Kauaritter13/portfolio) · [ao vivo](https://kauaritter13.github.io/portfolio/) | Meu site pessoal | React · Vite · Tailwind · Framer Motion |
 
 ### Ferramentas
