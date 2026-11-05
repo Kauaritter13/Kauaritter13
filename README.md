@@ -18,12 +18,6 @@ Desenvolvedor Full Stack e estudante de Engenharia da Computação na UERGS, em 
 | **Four Imóveis** · [ao vivo](https://site-four.vercel.app) | Site imobiliário com busca, mapa, captação de leads e painel administrativo | Next.js · Drizzle · PostgreSQL |
 | **Pedal Sustentável** · [ao vivo](https://pedalars.org/) | Empréstimo gratuito de bicicletas compartilhadas em Guaíba (RS) | Web · Geolocalização |
 
-### Projetos de resenha
-
-- [**Pixel Resenha**](https://github.com/Kauaritter13/pixelresenha) · [jogar](https://pixelresenha.vercel.app): joguinho multiplayer em pixel art, com chat de voz
-- [**A Gente Tenta**](https://github.com/Kauaritter13/v0-a-gente-tenta) · [abrir](https://v0-a-gente-tenta.vercel.app): organiza resenha com os amigos, com convite por link e confirmação de presença
-- [**Uergs Check**](https://github.com/Kauaritter13/Uergs-Check): acompanha matérias e créditos do curso na UERGS
-
 ### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,fastapi,postgres,mysql,prisma,docker,linux,githubactions,python,cpp,arduino&perline=15&theme=dark" alt="TypeScript, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MySQL, Prisma, Docker, Linux, GitHub Actions, Python, C++ e Arduino" />
