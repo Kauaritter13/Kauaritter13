@@ -6,17 +6,40 @@ Desenvolvedor Full Stack e estudante de Engenharia da Computação na UERGS, em 
 
 ### Onde estou trabalhando
 
-- **Conecta Indústria Eletroeletrônica:** P&D de máquinas industriais, inspeção PTH/SMT, visão computacional e sistemas internos
-- **Nidus Software:** Sistema de proteção social com RBAC multi-perfil, modelagem de dados e foco em LGPD
+- **Conecta Indústria Eletroeletrônica:** P&D, sistemas industriais e inspeção óptica de placas
+- **[ALT.software](https://altsoftware.com.br):** fundador e desenvolvedor da minha software house
+- **Nidus Software:** plataforma segura de proteção social, com RBAC multi-perfil e foco em LGPD
 
-### Projetos principais
+### Open source
+
+**[ALt.nexo](https://github.com/Kauaritter13/alt-nexo):** IDE visual para agentes de código. Um canvas infinito em que cada nó é uma sessão real do Claude Code. Faça um fork.
+
+### CRMs e atendimento
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**ALt.nexo**](https://github.com/Kauaritter13/alt-nexo) | IDE visual orientada a agentes: canvas infinito com instâncias reais do Claude Code | TypeScript · React · Electron · Node.js |
-| **Ankora CRM** <sub>(privado)</sub> | CRM B2B para venda de chicotes elétricos e projetos de eletrônica, com web e app mobile | React · Express · Prisma · Flutter |
-| **Four Imóveis** · [ao vivo](https://site-four.vercel.app) | Site imobiliário com busca, mapa, captação de leads e painel administrativo | Next.js · Drizzle · PostgreSQL |
-| **Pedal Sustentável** · [ao vivo](https://pedalars.org/) | Empréstimo gratuito de bicicletas compartilhadas em Guaíba (RS) | Web · Geolocalização |
+| **Ankora CRM** <sub>(privado)</sub> | CRM B2B para chicotes elétricos e projetos de eletrônica, com web e app mobile | React · Express · Prisma · Flutter |
+| [**Four Imóveis**](https://site-four.vercel.app) | Site, painel e CRM de uma imobiliária, com funil de leads | Next.js · Drizzle · Supabase |
+| [**ALT.chat**](https://alt.app.br/) | Inbox omnichannel com agente de IA para WhatsApp, Instagram, Telegram e site | NestJS · Next.js · Prisma · Redis |
+| [**Sales SDR**](https://alt-sdr-web.vercel.app/) | SDR com IA para corretor de imóveis | NestJS · Next.js · Prisma · BullMQ |
+| [**ALt.Reativa**](https://alt-reativa.vercel.app/) | Reativação de leads pelo WhatsApp oficial | Next.js · Prisma · BullMQ |
+| **Urban Company CRM** <sub>(privado)</sub> | CRM SaaS multi-tenant para o mercado imobiliário | React · Node.js · Prisma · PostgreSQL |
+
+### Indústria e MES
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **Suíte Ankora** <sub>(privado)</sub> | MES em produção, gestão de projetos, cotador de componentes e login único para uma fábrica de chicotes elétricos | Next.js · Express · Prisma · Flask |
+| **AIM · AOI** <sub>(projeto de equipe)</sub> | Inspeção óptica automática de placas eletrônicas | Python · PyTorch · OpenCV |
+| [**Conecta Chamados**](https://conecta-chamados-one.vercel.app/) | Abertura de chamados internos dos sistemas | Vercel · Notion API |
+
+### Outros projetos
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Pedal Sustentável**](https://pedalars.org/) | Bicicletas compartilhadas gratuitas em Guaíba (RS) | React · Express · PostgreSQL · Leaflet |
+| [**Acervo**](https://acervo-corretor.vercel.app/) | Google Drive dos corretores, organizado por IA | Next.js · Supabase · Claude |
+| **CRION** <sub>(privado)</sub> | SaaS B2B de gestão de frotas com IA | Next.js · Prisma · PostgreSQL |
 
 ### Ferramentas
 
