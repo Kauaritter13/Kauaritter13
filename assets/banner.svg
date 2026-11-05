@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Kauã Ritter — Desenvolvedor Full Stack">
+  <style>
+    @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+    @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+    @keyframes drift { 0%, 100% { transform: translate(0, 0) } 50% { transform: translate(-46px, 22px) } }
+    @keyframes drift2 { 0%, 100% { transform: translate(0, 0) } 50% { transform: translate(40px, -20px) } }
+    @keyframes blink { 0%, 49% { opacity: 1 } 50%, 100% { opacity: 0 } }
+    .a { animation: rise .7s ease-out both }
+    .d1 { animation-delay: .15s } .d2 { animation-delay: .35s } .d3 { animation-delay: .8s }
+    .d4 { animation-delay: 1s } .d5 { animation-delay: 1.2s } .d6 { animation-delay: 1.4s }
+    .bar { transform-origin: 72px 216px; animation: grow .8s .6s ease-out both }
+    .g1 { animation: drift 11s ease-in-out infinite }
+    .g2 { animation: drift2 14s ease-in-out infinite }
+    .cur { animation: blink 1.1s steps(1) infinite }
+    @media (prefers-reduced-motion: reduce) {
+      .a, .bar, .g1, .g2, .cur { animation: none; opacity: 1; transform: none }
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b26"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6a2b"/><stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#ff6a2b" stop-opacity=".30"/><stop offset="1" stop-color="#ff6a2b" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#60a5fa" stop-opacity=".22"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.5" fill="#fff" opacity=".07"/></pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle class="g1" cx="1040" cy="40" r="300" fill="url(#glowA)"/>
+    <circle class="g2" cx="860" cy="320" r="280" fill="url(#glowB)"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+      <text class="a d1" x="72" y="118" fill="#ff8a57" font-size="20" font-weight="600" letter-spacing="3">FULL STACK · AUTOMAÇÃO · HARDWARE</text>
+      <text class="a d2" x="70" y="192" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="-1">Kauã Ritter</text>
+      <rect class="bar" x="72" y="214" width="132" height="4" rx="2" fill="url(#line)"/>
+      <text class="a d3" x="72" y="256" fill="#9da7b3" font-size="24">Sistemas que rodam em produção, do banco de dados à máquina.</text>
+    </g>
+    <g font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="17" fill="#7d8896">
+      <rect x="880" y="96" width="248" height="128" rx="12" fill="#0d1117" fill-opacity=".7" stroke="#30363d"/>
+      <circle cx="902" cy="118" r="5" fill="#ff6a2b"/><circle cx="920" cy="118" r="5" fill="#f0b429"/><circle cx="938" cy="118" r="5" fill="#3fb950"/>
+      <text class="a d4" x="902" y="156"><tspan fill="#60a5fa">web</tspan><tspan x="968">React · Node</tspan></text>
+      <text class="a d5" x="902" y="182"><tspan fill="#60a5fa">dados</tspan><tspan x="968">PostgreSQL</tspan></text>
+      <text class="a d6" x="902" y="208"><tspan fill="#60a5fa">local</tspan><tspan x="968">Guaíba, RS</tspan><tspan class="cur" fill="#ff6a2b"> _</tspan></text>
+    </g>
+  </g>
+</svg>
