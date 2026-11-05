@@ -10,22 +10,22 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 </style>
 <defs><linearGradient id="g" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ff6a2b"/><stop offset="1" stop-color="#ffa070"/></linearGradient></defs>
 <rect x=".5" y=".5" width="849" height="271" rx="14" fill="#0d1117" stroke="#30363d"/>
-<text x="40" y="62" class="n">56</text><text x="40" y="82" class="s">contribuições em 12 meses</text>
-<text x="240" y="62" class="n">11</text><text x="240" y="82" class="s">dias ativos</text>
+<text x="40" y="62" class="n">30</text><text x="40" y="82" class="s">contribuições em 12 meses</text>
+<text x="240" y="62" class="n">9</text><text x="240" y="82" class="s">dias ativos</text>
 <text x="560" y="62" class="t" style="font-weight:600">Linguagens</text>
 <text x="560" y="82" class="s">repositórios públicos</text>
 <rect class="b" style="animation-delay:0ms" x="40" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
 <text x="52" y="252" text-anchor="middle" class="s">dez</text>
-<rect class="b" style="animation-delay:60ms" x="78" y="199" width="24" height="33" rx="5" fill="url(#g)"/>
-<text x="90" y="252" text-anchor="middle" class="s">jan</text><text x="90" y="191" text-anchor="middle" class="s">7</text>
-<rect class="b" style="animation-delay:120ms" x="116" y="114" width="24" height="118" rx="5" fill="url(#g)"/>
-<text x="128" y="252" text-anchor="middle" class="s">fev</text><text x="128" y="106" text-anchor="middle" class="s">25</text>
+<rect class="b" style="animation-delay:60ms" x="78" y="191" width="24" height="41" rx="5" fill="url(#g)"/>
+<text x="90" y="252" text-anchor="middle" class="s">jan</text><text x="90" y="183" text-anchor="middle" class="s">7</text>
+<rect class="b" style="animation-delay:120ms" x="116" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
+<text x="128" y="252" text-anchor="middle" class="s">fev</text>
 <rect class="b" style="animation-delay:180ms" x="154" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
 <text x="166" y="252" text-anchor="middle" class="s">mar</text>
-<rect class="b" style="animation-delay:240ms" x="192" y="133" width="24" height="99" rx="5" fill="url(#g)"/>
-<text x="204" y="252" text-anchor="middle" class="s">abr</text><text x="204" y="125" text-anchor="middle" class="s">21</text>
-<rect class="b" style="animation-delay:300ms" x="230" y="227" width="24" height="5" rx="5" fill="url(#g)"/>
-<text x="242" y="252" text-anchor="middle" class="s">mai</text><text x="242" y="219" text-anchor="middle" class="s">1</text>
+<rect class="b" style="animation-delay:240ms" x="192" y="114" width="24" height="118" rx="5" fill="url(#g)"/>
+<text x="204" y="252" text-anchor="middle" class="s">abr</text><text x="204" y="106" text-anchor="middle" class="s">20</text>
+<rect class="b" style="animation-delay:300ms" x="230" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
+<text x="242" y="252" text-anchor="middle" class="s">mai</text>
 <rect class="b" style="animation-delay:360ms" x="268" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
 <text x="280" y="252" text-anchor="middle" class="s">jun</text>
 <rect class="b" style="animation-delay:420ms" x="306" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
@@ -34,28 +34,28 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <text x="356" y="252" text-anchor="middle" class="s">ago</text>
 <rect class="b" style="animation-delay:540ms" x="382" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
 <text x="394" y="252" text-anchor="middle" class="s">set</text>
-<rect class="b" style="animation-delay:600ms" x="420" y="227" width="24" height="5" rx="5" fill="url(#g)"/>
-<text x="432" y="252" text-anchor="middle" class="s">out</text><text x="432" y="219" text-anchor="middle" class="s">1</text>
-<rect class="b" style="animation-delay:660ms" x="458" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
-<text x="470" y="252" text-anchor="middle" class="s">nov</text>
+<rect class="b" style="animation-delay:600ms" x="420" y="229" width="24" height="3" rx="5" fill="url(#g)"/>
+<text x="432" y="252" text-anchor="middle" class="s">out</text>
+<rect class="b" style="animation-delay:660ms" x="458" y="220" width="24" height="12" rx="5" fill="url(#g)"/>
+<text x="470" y="252" text-anchor="middle" class="s">nov</text><text x="470" y="212" text-anchor="middle" class="s">2</text>
 <text x="560" y="112" class="t">TypeScript</text>
-<text x="810" y="112" text-anchor="end" class="s">80.1%</text>
+<text x="810" y="112" text-anchor="end" class="s">94.6%</text>
 <rect x="560" y="119" width="250" height="6" rx="3" fill="#30363d"/>
-<rect class="l" style="animation-delay:0ms" x="560" y="119" width="200.1945043403461" height="6" rx="3" fill="#3178c6"/>
-<text x="560" y="142" class="t">Python</text>
-<text x="810" y="142" text-anchor="end" class="s">14.2%</text>
+<rect class="l" style="animation-delay:0ms" x="560" y="119" width="236.61575221039544" height="6" rx="3" fill="#3178c6"/>
+<text x="560" y="142" class="t">CSS</text>
+<text x="810" y="142" text-anchor="end" class="s">3.4%</text>
 <rect x="560" y="149" width="250" height="6" rx="3" fill="#30363d"/>
-<rect class="l" style="animation-delay:90ms" x="560" y="149" width="35.5693652143804" height="6" rx="3" fill="#3572A5"/>
-<text x="560" y="172" class="t">CSS</text>
-<text x="810" y="172" text-anchor="end" class="s">3.0%</text>
+<rect class="l" style="animation-delay:90ms" x="560" y="149" width="8.563266008404264" height="6" rx="3" fill="#663399"/>
+<text x="560" y="172" class="t">HTML</text>
+<text x="810" y="172" text-anchor="end" class="s">1.0%</text>
 <rect x="560" y="179" width="250" height="6" rx="3" fill="#30363d"/>
-<rect class="l" style="animation-delay:180ms" x="560" y="179" width="7.375836275859509" height="6" rx="3" fill="#663399"/>
-<text x="560" y="202" class="t">HTML</text>
-<text x="810" y="202" text-anchor="end" class="s">2.1%</text>
+<rect class="l" style="animation-delay:180ms" x="560" y="179" width="4" height="6" rx="3" fill="#e34c26"/>
+<text x="560" y="202" class="t">JavaScript</text>
+<text x="810" y="202" text-anchor="end" class="s">0.6%</text>
 <rect x="560" y="209" width="250" height="6" rx="3" fill="#30363d"/>
-<rect class="l" style="animation-delay:270ms" x="560" y="209" width="5.368550203432724" height="6" rx="3" fill="#e34c26"/>
+<rect class="l" style="animation-delay:270ms" x="560" y="209" width="4" height="6" rx="3" fill="#f1e05a"/>
 <text x="560" y="232" class="t">PLpgSQL</text>
-<text x="810" y="232" text-anchor="end" class="s">0.5%</text>
+<text x="810" y="232" text-anchor="end" class="s">0.4%</text>
 <rect x="560" y="239" width="250" height="6" rx="3" fill="#30363d"/>
 <rect class="l" style="animation-delay:360ms" x="560" y="239" width="4" height="6" rx="3" fill="#336790"/>
 </svg>
