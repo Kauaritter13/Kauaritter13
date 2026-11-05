@@ -1,23 +1,28 @@
 <img src="./assets/banner.svg" alt="Kauã Ritter — Desenvolvedor Full Stack" width="100%" />
 
-Desenvolvedor Full Stack e estudante de Engenharia da Computação na UERGS, em Guaíba (RS). Trabalho em produtos que rodam em produção: CRM SaaS, plataforma de proteção social e P&D de máquinas para a indústria eletrônica.
+Desenvolvedor Full Stack e estudante de Engenharia da Computação na UERGS, em Guaíba (RS). Trabalho em produtos que rodam em produção: CRM B2B, plataforma de proteção social e P&D de máquinas para a indústria eletrônica.
 
 <a href="https://kauaritter13.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ff6a2b?style=for-the-badge" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/kauaritter/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a> <a href="mailto:kkauaritter@gmail.com"><img src="https://img.shields.io/badge/E--mail-30363d?style=for-the-badge" alt="E-mail" /></a>
 
 ### Onde estou trabalhando
 
-- **Urban Company:** CRM SaaS multi-tenant para o mercado imobiliário: banco, APIs, telas e integrações com WhatsApp e webhooks
+- **Conecta Indústria Eletroeletrônica:** P&D de máquinas industriais, inspeção PTH/SMT, visão computacional e sistemas internos
 - **Nidus Software:** Sistema de proteção social com RBAC multi-perfil, modelagem de dados e foco em LGPD
-- **Flesch Tech:** P&D de máquinas industriais: inspeção PTH/SMT, visão computacional e automação
 
-### Projetos abertos
+### Projetos principais
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Pixel Resenha**](https://github.com/Kauaritter13/pixelresenha) · [ao vivo](https://pixelresenha.vercel.app) | Joguinho multiplayer em pixel art para fazer resenha, com chat de voz | Next.js · WebSocket · WebRTC · PostgreSQL |
-| [**A Gente Tenta**](https://github.com/Kauaritter13/v0-a-gente-tenta) · [ao vivo](https://v0-a-gente-tenta.vercel.app) | Organiza resenha com os amigos: convite por link, confirmação de presença e comentários | Next.js · Supabase |
-| [**Uergs Check**](https://github.com/Kauaritter13/Uergs-Check) | Acompanhamento de matérias e créditos para estudantes da UERGS | Next.js · Supabase |
-| [**Portfólio**](https://github.com/Kauaritter13/portfolio) · [ao vivo](https://kauaritter13.github.io/portfolio/) | Meu site pessoal | React · Vite · Tailwind · Framer Motion |
+| [**ALt.nexo**](https://github.com/Kauaritter13/alt-nexo) | IDE visual orientada a agentes: canvas infinito com instâncias reais do Claude Code | TypeScript · React · Electron · Node.js |
+| **Ankora CRM** <sub>(privado)</sub> | CRM B2B para venda de chicotes elétricos e projetos de eletrônica, com web e app mobile | React · Express · Prisma · Flutter |
+| **Four Imóveis** · [ao vivo](https://site-four.vercel.app) | Site imobiliário com busca, mapa, captação de leads e painel administrativo | Next.js · Drizzle · PostgreSQL |
+| **Pedal Sustentável** · [ao vivo](https://pedalars.org/) | Empréstimo gratuito de bicicletas compartilhadas em Guaíba (RS) | Web · Geolocalização |
+
+### Projetos de resenha
+
+- [**Pixel Resenha**](https://github.com/Kauaritter13/pixelresenha) · [jogar](https://pixelresenha.vercel.app): joguinho multiplayer em pixel art, com chat de voz
+- [**A Gente Tenta**](https://github.com/Kauaritter13/v0-a-gente-tenta) · [abrir](https://v0-a-gente-tenta.vercel.app): organiza resenha com os amigos, com convite por link e confirmação de presença
+- [**Uergs Check**](https://github.com/Kauaritter13/Uergs-Check): acompanha matérias e créditos do curso na UERGS
 
 ### Ferramentas
 
